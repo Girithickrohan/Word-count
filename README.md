@@ -7,22 +7,22 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 
 ### Step 1:
-         Open file in read mode.
+Open file in read mode.
 
 ### Step 2: 
-         Read the text using read funcion.
+Read the text using read funcion.
          
 ### Step 3: 
-         Split the text using space separator.
+Split the text using space separator.
          
 ### Step 4:  
-         The length of the split list should be equal to the number of words in the text file.
+The length of the split list should be equal to the number of words in the text file.
 
 ### Step 5: 
-         Now give print().
+Now give print().
 
 ### Step 6: 
-         End the program.
+End the program.
 
 ## PROGRAM:
 
